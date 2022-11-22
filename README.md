@@ -14,7 +14,6 @@
   <img align="center" alt="Willian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Willian-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Willian-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWzAZe_LRu_TVcWSGhtQ8cpoUACwhC03edQ&usqp=CAU">
 </div>
   
   ##
