@@ -14,6 +14,9 @@
   <img align="center" alt="Willian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Willian-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Willian-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Willian-React" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Willian-Spring" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+   
 </div>
   
   ##
