@@ -26,5 +26,7 @@
   <a href="https://www.linkedin.com/in/willian-silvestre-3439b1236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg)
+  
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WillianSi.WillianSi&left_text=My%20Page%20Visitors)
  
 </div>
