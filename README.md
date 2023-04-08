@@ -38,6 +38,10 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillianSi&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ![Snake animation](https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg)
   
+  <p align="center">
+  <img src="https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+  
   <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
       <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WillianSi}/count.svg" /></p> 
