@@ -28,6 +28,6 @@
   ![Snake animation](https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg)
   
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WillianSi&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=WillianSi&style=flat-square&color=blueviolet" alt="Visualizações do perfil" />
   </p>
 </div>
