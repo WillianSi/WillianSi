@@ -20,7 +20,9 @@
   <img align="center" alt="Willian-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Willian-React" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Willian-Spring" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Willian-Docker" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/docker/docker-original.svg">  
+  <img align="center" alt="Willian-Docker" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Willian-PHP" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="Willian-Android" height="30" width="40" src="https://github.com/WillianSi/devicon/blob/master/icons/android/android-plain-wordmark.svg">
 </div>
   
  ##
