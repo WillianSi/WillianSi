@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSi&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-<div align="center" style="color:#9657AE; font-weight:bold">
+<div align="center" style="font-weight:bold">
     Tecnologias
 </div>
 <div align="center" style="display: inline_block"><br>
@@ -44,7 +44,7 @@
   
   <p align="center">
   <img src="https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+  </p>
   
   <div align="center">
     <br><p align="centre"><b>Contagem de visitantes</b></p>  
