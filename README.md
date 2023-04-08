@@ -50,6 +50,3 @@
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0d1117&height=120&section=footer"/>
-  <p align="center">
-  <img alt="waving hand" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#0d1117&height=120&section=footer" style="transform: scaleX(-1)">
-</p>
