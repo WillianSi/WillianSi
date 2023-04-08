@@ -27,6 +27,6 @@
  
   ![Snake animation](https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg)
   
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WillianSi.WillianSi&left_text=My%20Page%20Visitors)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=WillianSi.WillianSi&title=Visitors&label=Total%20Visits&labelColor=0b3c5d&logo=GitHub&logoColor=white&color=0b3c5d)
  
 </div>
