@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSi&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-<div style="text-align:center">
+<div align:"center">
     <b style="color:#9657AE">Tecnologias</b>
 </div>
 <div align="center" style="display: inline_block"><br>
