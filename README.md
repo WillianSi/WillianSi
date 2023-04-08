@@ -30,10 +30,14 @@
   <a href="https://www.linkedin.com/in/willian-silvestre-3439b1236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillianSi&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-   ![Snake animation](https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg)
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WillianSi&style=flat-square&color=blueviolet" alt="Visualizações do perfil" />
-   </p>
+  ![Snake animation](https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WillianSi}/count.svg" /></p> 
+    <br>
+  </div>
+  
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0d1117&height=120&section=footer"/>
