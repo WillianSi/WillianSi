@@ -25,7 +25,13 @@
   <a href="https://instagram.com/willian_silvestre7?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willian-silvestre-3439b1236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  <div style="text-align: center;">
+  <svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- código SVG aqui -->
   ![Snake animation](https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg)
+    </svg>
+</div>
+  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WillianSi&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WillianSi&style=flat-square&color=blueviolet" alt="Visualizações do perfil" />
