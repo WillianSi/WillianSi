@@ -30,4 +30,15 @@
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WillianSi&style=flat-square&color=blueviolet" alt="Visualizações do perfil" />
    </p>
+  
+  
+  name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  username: WillianSi
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 </div>
