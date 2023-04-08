@@ -35,3 +35,5 @@
   <img src="https://komarev.com/ghpvc/?username=WillianSi&style=flat-square&color=blueviolet" alt="Visualizações do perfil" />
    </p>
 </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0d1117&height=120&section=footer"/>
