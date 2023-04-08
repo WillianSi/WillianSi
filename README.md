@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSi&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9657AE&size=23&center=true&vCenter=true&width=1000&lines=Tecnologias)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9657AE&size=23&center=true&vCenter=true&width=10&lines=Tecnologias)](https://git.io/typing-svg)
 <div style="display: inline_block"><br>
   <img align="center" alt="Willian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Willian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
