@@ -9,7 +9,7 @@
 </div>
  
  <div align="center" style="display: inline_block">
- ola
+ <h3 style="color: #a371f7;">Tecnologias</h3>
  </div>
 
 <div align="center" style="display: inline_block"><br>
