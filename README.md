@@ -30,7 +30,9 @@
 </div>
   
  ##
- 
+ <div align="center" style="display: inline_block">
+  <h3>Contato:</h3>
+ </div>
 <div> 
   <p align="center" style="margin-bottom: 20px;">
   <a href="https://instagram.com/willian_silvestre7?igshid=ZDdkNTZiNTM=" target="_blank">
