@@ -47,9 +47,9 @@
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillianSi&bg_color=0e0c0d&color=654c9e&line=7f2979&point=b102d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  <p align="center">
+<!--  <p align="center">
   <img src="https://github.com/WillianSi/WillianSi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-  </p>
+  </p> -->
   
   <div align="center">
     <br><p align="centre"><b>Contagem de visitantes</b></p>  
